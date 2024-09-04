@@ -41,8 +41,7 @@ import static net.runelite.api.SoundEffectID.ITEM_PICKUP;
 @PluginDescriptor(
         name = "CoX Tool Rack Sound",
         description = "Have sound feedback when you grab a tool from the tool rack in cox",
-        tags = {"cox","toolrack"},
-        enabledByDefault = false
+        tags = {"cox","toolrack"}
 )
 public class CoXToolRackSoundPlugin extends Plugin
 {
